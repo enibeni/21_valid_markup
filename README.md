@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Estate Agency site with all the information you might want. To visit follow the [link](https://enibeni.github.io/21_valid_markup/)
 
 # Project Goals
 
